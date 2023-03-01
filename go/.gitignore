@@ -1,0 +1,5 @@
+.direnv
+tmp
+
+flake.lock
+go.sum
